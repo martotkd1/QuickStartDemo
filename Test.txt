@@ -3,4 +3,3 @@ test 2.
 test 3.
 test 4.
 local test.
-local test 2.
